@@ -38,7 +38,7 @@ laptop1.charge();
 ```
 
 ### 📂 Files
-main.js: The main script that includes the class and example usage.
+challenge-1.js: The main script that includes the class and example usage.
 
 ### 🚀 Purpose
 This mini project is meant to practice JavaScript OOP principles.
